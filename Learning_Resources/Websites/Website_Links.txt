@@ -1,0 +1,34 @@
+This text file contatins important links related to the Websites and resources on websites.
+The PDF to these links are already been uploaded and the links are also put in case of updation of documents.
+
+*****Links******
+
+1)  Title - Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant
+    Link - https://machinelearning.apple.com/research/hey-siri
+
+2)  Title - Advances in trustworthy machine learning at Alexa AI
+    Link - https://www.amazon.science/blog/advances-in-trustworthy-machine-learning-at-alexa-ai
+
+3)  Title - Federated Learning with Google
+    Link - https://federated.withgoogle.com/
+
+4)  Title - Training a Language Model using Federated Learning
+    Link - https://medium.com/linagoralabs/training-a-language-model-using-federated-learning-21bb2cc3b945
+
+5)  Title - 
+    Link - 
+
+6)  Title - 
+    Link - 
+
+7)  Title - 
+    Link - 
+
+8)  Title - 
+    Link - 
+
+9)  Title - 
+    Link - 
+
+10)  Title - 
+    Link - 
